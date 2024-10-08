@@ -1,0 +1,2 @@
+print("Hi Sabit \n I am a very good coder \n I learn coding from Ms. Amrita Dhar miss\nMiss teaches me from Kolkata and I live is Dhaka\nI also do Taekwando,in Taekwado I am in green belt\n")
+print("I read to a sir,miss,hujur,hujunne,miss,sir and another sir and miss .")
